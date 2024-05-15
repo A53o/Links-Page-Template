@@ -7,4 +7,16 @@ too change the link icons go grab the icons you want from [bootstrap icons](http
 # Preview
 [Preview Link](https://a53o.github.io/Links-Page-Template/)
 
-![https://i.imgur.com/hKiCdWB.png](https://i.imgur.com/hKiCdWB.png)
+# Works With All Devices
+
+## Phone
+
+![Phone](https://i.imgur.com/kFSaFFV.png)
+
+## Tablet
+
+![Tablet](https://i.imgur.com/d8TwRrD.png)
+
+## PC
+
+![PC](https://i.imgur.com/iOoDHbd.png)
