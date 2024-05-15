@@ -9,7 +9,7 @@ Too change the links Simply change the link in the "a" element in the href="" th
 
 # Change Link Icons
 too change the link icons go grab the icons you want from [bootstrap icons](https://icons.getbootstrap.com/) then replace the "i" element of the icons you would like to change with the font icon code you got on bootstrap icons.
-![i](https://i.imgur.com/0jAJOAB.png)
+![i](https://i.imgur.com/eaHz8Dq.png)
 if you need help open an issue.
 
 # Change Pfp
