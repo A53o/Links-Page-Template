@@ -5,8 +5,9 @@ This is a Template for creating a bio/links page similer to [linktree](https://l
 Get Started by downloading the latest release [here](https://github.com/A53o/Links-Page-Template/releases/latest)
 
 # Change Links
-Too change the links Simply change the link in the "a" element in the `href=""` then to change the link text just edit the text thats there. (this also applys for the @ handle) ![link](https://i.imgur.com/3byHuTb.png)
-also make sure to also change the link in `onclick="document.location='https://example.com'"` section and make sure its in the `''` 
+Too change the links Simply change the link in the "a" element in the `href=""` then to change the link text just edit the text thats there. (this also applys for the @ handle) also make sure to also change the link in `onclick="document.location='https://example.com'"` section and make sure its in the `''`
+![link](https://i.imgur.com/1TnwOvN.png)
+
 # Change Link Icons
 too change the link icons go grab the icons you want from [bootstrap icons](https://icons.getbootstrap.com/) then replace the "i" element of the icons you would like to change with the font icon code you got on bootstrap icons.
 ![i](https://i.imgur.com/eaHz8Dq.png)
